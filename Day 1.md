@@ -1,8 +1,6 @@
 [Day 1](https://adventofcode.com/2021/day/1)!
 
 ## Part 1
-
-### Description
 Part 1's input is a simple list of numbers. The goal is to count how many times adjacent numbers increase.
 
 ### Solution
